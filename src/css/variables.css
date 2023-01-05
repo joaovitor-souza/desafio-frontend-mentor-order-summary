@@ -1,0 +1,7 @@
+:root{
+    --background-color-plan: hsl(225, 100%, 98%);
+    --paragraph-color:hsl(224, 23%, 55%);
+    --payment: hsl(245, 75%, 52%);
+    --text:hsl(225, 100%, 98%);
+    --text-cancel:hsl(223, 47%, 23%);
+}
